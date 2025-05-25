@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Escritorio\For eje\ForEjercicio\bin\Debug\net8.0\ForEjercicio.exe
+C:\Users\PC\OneDrive\Escritorio\For eje\ForEjercicio\bin\Debug\net8.0\ForEjercicio.deps.json
+C:\Users\PC\OneDrive\Escritorio\For eje\ForEjercicio\bin\Debug\net8.0\ForEjercicio.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\For eje\ForEjercicio\bin\Debug\net8.0\ForEjercicio.dll
+C:\Users\PC\OneDrive\Escritorio\For eje\ForEjercicio\bin\Debug\net8.0\ForEjercicio.pdb
+C:\Users\PC\OneDrive\Escritorio\For eje\ForEjercicio\obj\Debug\net8.0\ForEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\For eje\ForEjercicio\obj\Debug\net8.0\ForEjercicio.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\For eje\ForEjercicio\obj\Debug\net8.0\ForEjercicio.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\For eje\ForEjercicio\obj\Debug\net8.0\ForEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\For eje\ForEjercicio\obj\Debug\net8.0\ForEjercicio.dll
+C:\Users\PC\OneDrive\Escritorio\For eje\ForEjercicio\obj\Debug\net8.0\refint\ForEjercicio.dll
+C:\Users\PC\OneDrive\Escritorio\For eje\ForEjercicio\obj\Debug\net8.0\ForEjercicio.pdb
+C:\Users\PC\OneDrive\Escritorio\For eje\ForEjercicio\obj\Debug\net8.0\ForEjercicio.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\For eje\ForEjercicio\obj\Debug\net8.0\ref\ForEjercicio.dll
