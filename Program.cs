@@ -1,16 +1,40 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Ejemplo de arreglos");
+﻿using System;
 
-string [] nombres = ["Juan", "Pedro", "Luisa", "Adriana", "Sofia"]; 
-int [] notas = [88, 75, 96, 77, 59];
-int promedio = 0;
-string nombre = nombres[0];
-for (int i = 0; i < nombres.Length; i++)
+class Program
 {
-    Console.WriteLine($"Nombre: {nombres[i]} - Nota: {notas[i]}");
-     promedio += notas[i];
+    static void Main(string[] args)
+    {
     
-    
+        Console.WriteLine("Por favor, ingrese un texto:");
+        string input = Console.ReadLine();
+
+       
+        int wordCount = input.Split(new[] { ' ', '\t', '\n' }, StringSplitOptions.RemoveEmptyEntries).Length;
+
+        
+        string capitalizedText = CapitalizeWords(input);
+
+       
+        Console.WriteLine($"\nCantidad de palabras ingresadas: {wordCount}");
+        Console.WriteLine($"Texto con la primera letra de cada palabra en mayúscula:\n{capitalizedText}");
+    }
+
+    static string CapitalizeWords(string text)
+    {
+        if (string.IsNullOrWhiteSpace(text))
+        {
+            return string.Empty;
+        }
+
+        string[] words = text.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+        for (int i = 0; i < words.Length; i++)
+        {
+            if (words[i].Length > 0)
+            {
+                words[i] = char.ToUpper(words[i][0]) + words[i].Substring(1).ToLower();
+            }
+        }
+
+        return string.Join(" ", words);
+    }
 }
-    promedio /= notas.Length;
-    Console.WriteLine($"El pormedio de la suma de todas las notas es: {promedio}");
