@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Escritorio\dodowhile\eeeje5do\bin\Debug\net8.0\eeeje5do.exe
+C:\Users\PC\OneDrive\Escritorio\dodowhile\eeeje5do\bin\Debug\net8.0\eeeje5do.deps.json
+C:\Users\PC\OneDrive\Escritorio\dodowhile\eeeje5do\bin\Debug\net8.0\eeeje5do.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\dodowhile\eeeje5do\bin\Debug\net8.0\eeeje5do.dll
+C:\Users\PC\OneDrive\Escritorio\dodowhile\eeeje5do\bin\Debug\net8.0\eeeje5do.pdb
+C:\Users\PC\OneDrive\Escritorio\dodowhile\eeeje5do\obj\Debug\net8.0\eeeje5do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\dodowhile\eeeje5do\obj\Debug\net8.0\eeeje5do.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\dodowhile\eeeje5do\obj\Debug\net8.0\eeeje5do.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\dodowhile\eeeje5do\obj\Debug\net8.0\eeeje5do.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\dodowhile\eeeje5do\obj\Debug\net8.0\eeeje5do.dll
+C:\Users\PC\OneDrive\Escritorio\dodowhile\eeeje5do\obj\Debug\net8.0\refint\eeeje5do.dll
+C:\Users\PC\OneDrive\Escritorio\dodowhile\eeeje5do\obj\Debug\net8.0\eeeje5do.pdb
+C:\Users\PC\OneDrive\Escritorio\dodowhile\eeeje5do\obj\Debug\net8.0\eeeje5do.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\dodowhile\eeeje5do\obj\Debug\net8.0\ref\eeeje5do.dll
