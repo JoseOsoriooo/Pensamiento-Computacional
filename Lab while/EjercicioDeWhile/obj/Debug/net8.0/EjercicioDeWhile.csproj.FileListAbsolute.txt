@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Escritorio\Lab while\EjercicioDeWhile\bin\Debug\net8.0\EjercicioDeWhile.exe
+C:\Users\PC\OneDrive\Escritorio\Lab while\EjercicioDeWhile\bin\Debug\net8.0\EjercicioDeWhile.deps.json
+C:\Users\PC\OneDrive\Escritorio\Lab while\EjercicioDeWhile\bin\Debug\net8.0\EjercicioDeWhile.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\Lab while\EjercicioDeWhile\bin\Debug\net8.0\EjercicioDeWhile.dll
+C:\Users\PC\OneDrive\Escritorio\Lab while\EjercicioDeWhile\bin\Debug\net8.0\EjercicioDeWhile.pdb
+C:\Users\PC\OneDrive\Escritorio\Lab while\EjercicioDeWhile\obj\Debug\net8.0\EjercicioDeWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\Lab while\EjercicioDeWhile\obj\Debug\net8.0\EjercicioDeWhile.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\Lab while\EjercicioDeWhile\obj\Debug\net8.0\EjercicioDeWhile.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\Lab while\EjercicioDeWhile\obj\Debug\net8.0\EjercicioDeWhile.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\Lab while\EjercicioDeWhile\obj\Debug\net8.0\EjercicioDeWhile.dll
+C:\Users\PC\OneDrive\Escritorio\Lab while\EjercicioDeWhile\obj\Debug\net8.0\refint\EjercicioDeWhile.dll
+C:\Users\PC\OneDrive\Escritorio\Lab while\EjercicioDeWhile\obj\Debug\net8.0\EjercicioDeWhile.pdb
+C:\Users\PC\OneDrive\Escritorio\Lab while\EjercicioDeWhile\obj\Debug\net8.0\EjercicioDeWhile.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\Lab while\EjercicioDeWhile\obj\Debug\net8.0\ref\EjercicioDeWhile.dll
