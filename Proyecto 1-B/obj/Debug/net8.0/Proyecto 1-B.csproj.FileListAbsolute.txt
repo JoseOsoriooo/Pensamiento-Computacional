@@ -1,0 +1,14 @@
+C:\Users\luisr\OneDrive\Desktop\U\Proyecto 1-B\bin\Debug\net8.0\Proyecto 1-B.exe
+C:\Users\luisr\OneDrive\Desktop\U\Proyecto 1-B\bin\Debug\net8.0\Proyecto 1-B.deps.json
+C:\Users\luisr\OneDrive\Desktop\U\Proyecto 1-B\bin\Debug\net8.0\Proyecto 1-B.runtimeconfig.json
+C:\Users\luisr\OneDrive\Desktop\U\Proyecto 1-B\bin\Debug\net8.0\Proyecto 1-B.dll
+C:\Users\luisr\OneDrive\Desktop\U\Proyecto 1-B\bin\Debug\net8.0\Proyecto 1-B.pdb
+C:\Users\luisr\OneDrive\Desktop\U\Proyecto 1-B\obj\Debug\net8.0\Proyecto 1-B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\OneDrive\Desktop\U\Proyecto 1-B\obj\Debug\net8.0\Proyecto 1-B.AssemblyInfoInputs.cache
+C:\Users\luisr\OneDrive\Desktop\U\Proyecto 1-B\obj\Debug\net8.0\Proyecto 1-B.AssemblyInfo.cs
+C:\Users\luisr\OneDrive\Desktop\U\Proyecto 1-B\obj\Debug\net8.0\Proyecto 1-B.csproj.CoreCompileInputs.cache
+C:\Users\luisr\OneDrive\Desktop\U\Proyecto 1-B\obj\Debug\net8.0\Proyecto 1-B.dll
+C:\Users\luisr\OneDrive\Desktop\U\Proyecto 1-B\obj\Debug\net8.0\refint\Proyecto 1-B.dll
+C:\Users\luisr\OneDrive\Desktop\U\Proyecto 1-B\obj\Debug\net8.0\Proyecto 1-B.pdb
+C:\Users\luisr\OneDrive\Desktop\U\Proyecto 1-B\obj\Debug\net8.0\Proyecto 1-B.genruntimeconfig.cache
+C:\Users\luisr\OneDrive\Desktop\U\Proyecto 1-B\obj\Debug\net8.0\ref\Proyecto 1-B.dll
